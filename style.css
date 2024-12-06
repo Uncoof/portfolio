@@ -754,6 +754,9 @@ span, .logo span{
     .services h2{
         margin-bottom: 3rem;
     }
+    .services h4{
+        font-size: 2rem;
+    }
     .services-container{
         grid-template-columns: repeat(1,1fr);
     }
