@@ -245,7 +245,7 @@ span, .logo span{
 @keyframes words {
     0%,
     20%{
-        content: "UI / UX Designer";
+        content: "UI/UX Designer";
     }
     21%,
     40%{
