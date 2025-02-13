@@ -245,7 +245,7 @@ span, .logo span{
 @keyframes words {
     0%,
     20%{
-        content: "UI Designer";
+        content: "Web Developer";
     }
     21%,
     40%{
@@ -253,11 +253,11 @@ span, .logo span{
     }
     41%,
     60%{
-        content: "Backend Dev.";
+        content: "UX Designer.";
     }
     61%,
     80%{
-        content: "Web Developer";
+        content: "UI Designer";
     }
     81%,
     100%{
